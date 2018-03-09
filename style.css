@@ -1,9 +1,18 @@
+body {
+  padding-top: 50px;
+}
+
 .gallery__img {
   margin: 0 auto;
 }
 
 .gallery__img-container {
   margin-bottom: 20px;
+}
+
+/* NAVBAR */
+.navbar {
+  background-color: white; 
 }
 
 @media (min-width: 992px) {
