@@ -1,0 +1,13 @@
+.gallery__img {
+  margin: 0 auto;
+}
+
+.gallery__img-container {
+  margin-bottom: 20px;
+}
+
+@media (min-width: 992px) {
+  .gallery__img-container {
+    margin-bottom: 0;
+  }
+}
